@@ -1,0 +1,7 @@
+apiVersion: v1
+description: Helm chart based Kubernetes Spring Boot application
+name: outreach-mq-commreq-datasvc
+version: 1.0
+maintainers:
+  - name: 'K Sai Mounika'
+    email: 'smkoniki@in.ibm.com'
